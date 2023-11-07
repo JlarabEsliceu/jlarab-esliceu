@@ -1,5 +1,5 @@
 # jlarab-esliceu
-Texto en *cursiva*
+Esto es un **texto en negrita** y esto un *texto en cursiva*
 ## dos
 ### tres
 #### quatre
