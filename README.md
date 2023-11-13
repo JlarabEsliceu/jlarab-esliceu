@@ -8,7 +8,7 @@ A continuacion vamos a [montaje](montaje/Captura%20de%20pantalla%20de%202023-10-
 3. Pizza
   1. Peperoni
   2. 4 formatges
-4. Jamon
+  3. Jamon
 #### quatre
 ##### cinc
 ###### sis
