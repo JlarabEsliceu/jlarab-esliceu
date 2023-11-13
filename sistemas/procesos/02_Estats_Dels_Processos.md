@@ -20,7 +20,7 @@ Els processos passen per diversos estats durant el seu cicle de vida. A continua
 ### 6. **Preemptat (Preempted):**
    - En sistemes amb preempció, un procés en estat d'execució pot ser interromput pel planificador per donar prioritat a un altre procés. Aquest procés interromput es troba momentàniament en estat preemptat fins que se li assigni de nou el control del processador.
 
-La transició entre aquests estats és gestionada pel sistema operatiu, i assegurar una gestió eficient d'aquests estats és fonamental per mantenir l'ordre i l'optimització en l'execució dels processos.
+## Transició d'estats
+![Estats d'un Procés](Transicio.png)
 
-![Mi Imagen Local](processos/) 
-
+La transició entre aquests estats és gestionada pel sistema operatiu, i assegurar una gestió eficient d'aquests estats és fonamental per mantenir l'ordre i l'optimització en l'execució dels processos
